@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 public class SubarraySumEqualsK {
-    public static int subarraySum(int[] nums, int k) {
+      public static int subarraySum(int[] nums, int k) {
 
         HashMap<Integer, Integer> map = new HashMap<>();
 
